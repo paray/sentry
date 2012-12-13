@@ -1,0 +1,25 @@
+{
+	"product_metric_list": [
+	    {"cpuUsage": "CPU利用率"},
+	    {"memUsage": "内存利用量"},
+	    {"networkReceive": "网络流入量"},
+	    {"networkTransfer": "网络流出量"},
+	    {"diskUsage": "磁盘使用量"},
+	    {"diskReadRequest": "磁盘读取请求数"},
+	    {"diskWriteRequest": "磁盘写入请求数"},
+	    {"diskReadRate": "磁盘读取频率"},
+	    {"diskWriteRate": "磁盘写入频率"},
+	    {"diskReadDelay": "磁盘读取延迟"},
+	    {"diskWriteDelay": "磁盘写入延迟"}
+	],
+	"platform_metric_list": [
+	],
+	"product_alarm_event_list": [
+	],
+	"platform_alarm_event_list": [
+	],
+	"product_object_list": [
+	],
+	"platform_object_list": [
+	]
+}
